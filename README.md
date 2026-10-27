@@ -1,8 +1,8 @@
-# LiteCrop · 图片裁剪
+# LiteCrop · Browser Image Cropper
 
-**单文件 · 零依赖 · 纯浏览器本地处理** 的图片裁剪工具。双击 `index.html` 即用，图片永远不会被上传到任何服务器。
+**Single file, zero dependencies, entirely local.** Crop images right in your browser — nothing is ever uploaded. Double-click `index.html` and you're done.
 
-[中文文档](README.zh-CN.md) | Live demo: open `index.html` in any modern browser.
+**English** | [简体中文](README.zh-CN.md) · [Live demo](https://bushimashen.github.io/lite-crop/)
 
 ## ✨ Features
 
